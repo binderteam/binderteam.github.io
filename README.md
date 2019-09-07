@@ -1,5 +1,5 @@
 # JB Landing Page
 
-Just a simple page
+Placeholder project.
 
-Using: https://github.com/flexdinesh/dev-landing-page
+Based on: https://github.com/flexdinesh/dev-landing-page
