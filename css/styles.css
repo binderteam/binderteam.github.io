@@ -45,14 +45,15 @@ main {
 
 main > .intro {
 	font-family: 'Noto Sans JP', sans-serif;
-	font-size: 1em;
+	font-size: 1.1em;
 	font-weight: 600;
 }
 
 main > .tagline {
-	font-size: 0.65rem;
+	font-size: 0.70rem;
 	margin: 8px 0 0 0;
 	font-weight: 100;
+	opacity: 0.8;
 }
 
 .icons-social i {
